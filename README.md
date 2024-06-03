@@ -27,6 +27,13 @@ The Contact page (`contact.html`) provides:
 - A contact form for users to submit their email, subject, and message.
 - A footer with company information.
 
+## Technolgy Used
+
+- **HTML5:** For structuring the content on the web pages.
+- **Tailwind CSS:** For styling and ensuring the website is responsive.
+- **Google Fonts:** For custom fonts used across the website.
+- **Font Awesome:** For icons used in various parts of the website.
+  
 ## Installation
 
 To install and run this project locally:
